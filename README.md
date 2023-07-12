@@ -1,5 +1,5 @@
 # Seam Carving
-Seam Carving for Content Aware Image Resizing.
+Implementation of Seam Carving for Content-Aware Image Resizing for final project of computer vision course of IUT.
 
 ## Introduction
 The goal of this project is to perform content-aware image resizing for reduction with seam carving operator. This allows image to be resized without losing or distorting meaningful content from scaling.
